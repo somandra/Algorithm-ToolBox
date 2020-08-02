@@ -13,40 +13,40 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 
 ## Week 1
 ### Solving a Simple Code Problem
-Problem: [Maximum Pairwise Product](https://github.com/somandra/Algorithm-ToolBox/blob/master/week1/1_maximum_pairwise_product)
+Problem: [Maximum Pairwise Product](https://github.com/somandra/Algorithm-ToolBox/blob/master/week1/1_maximum_pairwise_product/week1_programming_challenges.pdf)
 
-* C++: Max time used: 0.04/1.00, max memory used: 23617536/536870912
+* [C++: Max time used: 0.04/1.00, max memory used: 23617536/536870912](https://github.com/somandra/Algorithm-ToolBox/blob/master/week1/1_maximum_pairwise_product/max_pairwise_product.cpp)
 
 ## Week 2
-###  Prgramming Assignment: [Introduction](https://github.com/mablatnik/Data-Structures-And-Algorithms/blob/master/algorithmic_toolbox/week_2/01_introduction_problems.pdf)
-Problem: [Small Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci) </br>
+###  Prgramming Assignment: [Introduction](https://github.com/somandra/Algorithm-ToolBox/blob/master/week2/week2_algorithmic_warmup.pdf)
+Problem: [Small Fibonacci Number](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/1_fibonacci_number) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9142272/536870912
 
-Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_last_digit) </br>
+Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/2_last_digit_of_fibonacci_number) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 10104832/536870912
 
-Problem: [Greatest Common Divisor](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/gcd) </br>
+Problem: [Greatest Common Divisor](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/3_greatest_common_divisor) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9142272/536870912
 
-Problem: [Least Common Multiple](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/lcm) </br>
+Problem: [Least Common Multiple](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/4_least_common_multiple) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9166848/536870912
 
-Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_huge) </br>
+Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/5_fibonacci_number_again) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9420800/536870912
 
-Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_sum_last_digit) </br>
+Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/6_last_digit_of_the_sum_of_fibonacci_numbers) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9117696/536870912
 
-Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_partial_sum) </br>
+Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/7_last_digit_of_the_sum_of_fibonacci_numbers_again) </br>
 
 * Python: Max time used: 0.01/5.00, max memory used: 9129984/536870912
 
-Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/mablatnik/Data-Structures-And-Algorithms/tree/master/algorithmic_toolbox/week_2/01_introduction_starter_files/fibonacci_partial_sum) </br>
+Advanced Problem: [Fibonacci Sum Squares ](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9125888/536870912
