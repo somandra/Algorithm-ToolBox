@@ -13,7 +13,7 @@ Assignments for Algorithmic Toolbox on Coursera with time and memory results fro
 
 ## Week 1
 ### Solving a Simple Code Problem
-Problem: [Maximum Pairwise Product](https://github.com/somandra/Algorithm-ToolBox/blob/master/week1/1_maximum_pairwise_product/max_pairwise_product.cpp)
+Problem: [Maximum Pairwise Product](https://github.com/somandra/Algorithm-ToolBox/blob/master/week1/1_maximum_pairwise_product)
 
 * C++: Max time used: 0.04/1.00, max memory used: 23617536/536870912
 
