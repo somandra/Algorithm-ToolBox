@@ -69,18 +69,14 @@ Problem: [Maximum Advertisement Revenue](https://github.com/somandra/Algorithm-T
 
 * C++: Max time used: 0.00/1.00, max memory used: 9166848/536870912
 
-Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/5_fibonacci_number_again) </br>
+Advanced Problem: [Collecting Signatures](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/5_collecting_signatures/covering_segments.cpp) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9420800/536870912
 
-Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/6_last_digit_of_the_sum_of_fibonacci_numbers) </br>
+Advanced Problem: [Maximum Number of Prizes](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/6_maximum_number_of_prizes/different_summands.cpp) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9117696/536870912
 
-Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/7_last_digit_of_the_sum_of_fibonacci_numbers_again) </br>
+Advanced Problem: [Maximum Salary](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/7_maximum_salary/largest_number.cpp) </br>
 
-* Python: Max time used: 0.01/5.00, max memory used: 9129984/536870912
-
-Advanced Problem: [Fibonacci Sum Squares ](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers) </br>
-
-* C++: Max time used: 0.00/1.00, max memory used: 9125888/536870912
+* C++: Max time used: 0.01/5.00, max memory used: 9129984/536870912
