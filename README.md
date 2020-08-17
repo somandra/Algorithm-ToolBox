@@ -79,4 +79,4 @@ Advanced Problem: [Maximum Number of Prizes](https://github.com/somandra/Algorit
 
 Advanced Problem: [Maximum Salary](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/7_maximum_salary/largest_number.cpp) </br>
 
-* C++: Max time used: 0.01/5.00, max memory used: 9129984/536870912
+* C++: Max time used: 0.01/1.00, max memory used: 9129984/536870912
