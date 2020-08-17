@@ -50,3 +50,37 @@ Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://git
 Advanced Problem: [Fibonacci Sum Squares ](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers) </br>
 
 * C++: Max time used: 0.00/1.00, max memory used: 9125888/536870912
+
+## Week 3
+###  Prgramming Assignment: [Introduction](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/week3_greedy_algorithms.pdf)
+Problem: [Money Change](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/1_money_change/change.cpp) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9142272/536870912
+
+Problem: [Maximum Value of the Loot](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 10104832/536870912
+
+Problem: [Car Fueling](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/3_car_fueling/car_fueling.cpp) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9142272/536870912
+
+Problem: [Maximum Advertisement Revenue](https://github.com/somandra/Algorithm-ToolBox/blob/master/week3_greedyAlgorithms/4_maximum_advertisement_revenue/dot_product.cpp) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9166848/536870912
+
+Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/5_fibonacci_number_again) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9420800/536870912
+
+Advanced Problem: [Last Digit of a Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/6_last_digit_of_the_sum_of_fibonacci_numbers) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9117696/536870912
+
+Advanced Problem: [Last Digit of a Partial Sum of Fibonacci Numbers](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/7_last_digit_of_the_sum_of_fibonacci_numbers_again) </br>
+
+* Python: Max time used: 0.01/5.00, max memory used: 9129984/536870912
+
+Advanced Problem: [Fibonacci Sum Squares ](https://github.com/somandra/Algorithm-ToolBox/tree/master/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers) </br>
+
+* C++: Max time used: 0.00/1.00, max memory used: 9125888/536870912
